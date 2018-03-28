@@ -1,2 +1,2 @@
 # IOTTrials
-Some Arduino tests
+Learning IOT basics. Using Arduino as the platform.
